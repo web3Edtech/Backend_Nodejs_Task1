@@ -1,0 +1,12 @@
+{
+  "name": "js-es6-review",
+  "version": "1.0.0",
+  "description": "A project demonstrating ES6 features in JavaScript including arrow functions, promises, and async/await.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node arrowFunctions.js && node promises.js && node asyncAwait.js"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {}
+}
